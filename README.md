@@ -19,7 +19,7 @@ This is a simple Streamlit app that uses Google's free Gemini AI API to assist u
 4. please dont use my api key.
 5. Run the app:
     ```
-    streamlit run streamlit_app.py
+    streamlit run app.py
     ```
 
 ## Sample Prompts
